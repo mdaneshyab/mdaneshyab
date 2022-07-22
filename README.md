@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdaneshyab
 - 👀 I’m interested in gameDev
-- 🌱 I’m currently learning OpenGL
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on game stadios
 - 📫 How to reach me m.daneshyab@gmail.com
 
