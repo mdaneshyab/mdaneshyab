@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mdaneshyab
-- 👀 I’m interested in gameDev
-- 🌱 I’m currently learning CPP programing
-- 💞️ I’m looking to collaborate on game stadios
+- 👀 I’m interested in 3d world
+- 🌱 I’m currently V-ray engine
 - 📫 How to reach me m.daneshyab@gmail.com
 
 <!---
