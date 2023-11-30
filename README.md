@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdaneshyab
 - 👀 I’m interested in 3d world
-- 🌱 I’m currently V-ray engine
+- 🌱 I’m currently learing Python
 - 📫 How to reach me m.daneshyab@gmail.com
 
 <!---
